@@ -1,6 +1,6 @@
 # simple-ssh-logger
 
-Logging username and password into /var/log/ssh_creds.log
+Logging username and password into /var/log/ssh_creds.log when other ssh to SSH server.
 
 # How to use
 
