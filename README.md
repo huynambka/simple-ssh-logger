@@ -40,11 +40,13 @@ PAM là một framework được tích hợp hầu hết trong các hệ thống
 - Account 
 - Password
 - Session
+
 ![](image.png)
 
 ## SSH
 
 SSH mặc định có sử dụng PAM để xác thực.
+
 ![](image-1.png)
 
 Ta có thể tạo dynamic lib để nhúng vào quá trình xác thực của ssh để log username và password.
